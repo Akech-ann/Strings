@@ -1,8 +1,7 @@
 fun main() {
     val school = "akirachix"
-    println(school[0])
-    println(school[2])
-    println(school[3])
+    println(school[0] + "" +school[2] + school[3])
+
     printname("Ann",20)
     getlength("My name is Ann")
     call("bro")
